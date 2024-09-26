@@ -1,0 +1,10 @@
+.DS_Store
+*hCAII*
+peaklist*
+*.pdf
+Dispersion.py
+GlobalParam.py
+*.pkl
+__pycache__
+*.ipynb
+defaultpackages.py
