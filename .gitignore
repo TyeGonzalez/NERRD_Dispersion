@@ -1,0 +1,8 @@
+*hCAII*
+*.pkl
+*.ipynb
+__pycache__
+*.pdf
+peaklist*
+defaultpackages.py
+Globalparam.py
